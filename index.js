@@ -1,7 +1,7 @@
 const http = require('http');
 const url = require('url');
 const port = 1337;
-const host = '192.168.0.105';
+const host = '192.168.0.106';
 
 // const server = http.createServer(function (req, res) {
 //     console.log("Method and URL", req.method, req.url);
